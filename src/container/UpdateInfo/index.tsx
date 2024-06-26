@@ -116,7 +116,7 @@ export function UpdateInfo() {
 
         <Form.Item {...layout1} label=" ">
           <Button className="btn" type="primary" htmlType="submit">
-            修改信息
+            修改
           </Button>
         </Form.Item>
       </Form>
